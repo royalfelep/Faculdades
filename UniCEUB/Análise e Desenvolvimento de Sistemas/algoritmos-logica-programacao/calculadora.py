@@ -1,5 +1,3 @@
-import sys
-
 ######## Variáveis #########
 memoria = None
 
